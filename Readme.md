@@ -1,2 +1,5 @@
 <h1>Welcome to Web Development Course</h1>
 <p>In This Repository I would be posting my Notes of the web development course so that i am able to revise the notes and u guys can also read and learn from the notes or take help from these notes to make your own webiste in this i have writeen notes in the format html css and javascript as i was learning all of the three so side by side i was writing my notes with the same language for practing u can download the html file and then open it it will open a website where u will find the notes without code </p>
+
+
+<h3>Author-Shaurya Khanna</h3>
